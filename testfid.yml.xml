@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2023-02-02 15:09">
+  <shop>
+    <name>Test wonder shop</name>
+    <company>Test wonder shop</company>
+    <url>http://s3.advantme.pro/378227-wqnv</url>
+    <categories>
+      <category id="5701">Виниловый пол</category>
+      <category id="5702">Клей профессиональный</category>
+    </categories>
+    <offers>
+      <offer id="12466" available="true" group_id="1653">
+        <url>http://s3.advantme.pro/378227-wqnv/products/spc-laminat-aberhof-alfa-0563-irga</url>
+        <price>3200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5701</categoryId>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4494_big.jpg</picture>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4495_big.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>SPC ламинат Aberhof Alfa 0563 Irga</name>
+        <description>Краткое описание этого прекрасного товара</description>
+        <vendorCode>1653</vendorCode>
+        <weight>15.000</weight>
+        <param name="Цвет">Коричневый</param>
+        <param name="Размер">420 мм</param>
+      </offer>
+      <offer id="12467" available="true" group_id="1653">
+        <url>http://s3.advantme.pro/378227-wqnv/products/spc-laminat-aberhof-alfa-0563-irga?color=14&amp;size=31</url>
+        <price>6500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5701</categoryId>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4494_big.jpg</picture>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4495_big.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>SPC ламинат Aberhof Alfa 0563 Irga</name>
+        <description>Краткое описание этого прекрасного товара</description>
+        <vendorCode>1653-2</vendorCode>
+        <weight>15.000</weight>
+        <param name="Цвет">Коричневый</param>
+        <param name="Размер">620 мм</param>
+      </offer>
+      <offer id="12468" available="true" group_id="1654">
+        <url>http://s3.advantme.pro/378227-wqnv/products/spc-laminat-aberhof-alfa-1858-orange</url>
+        <price>3200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5701</categoryId>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4496_big.jpg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>SPC ламинат Aberhof Alfa 1858 Orange</name>
+        <vendorCode>1654</vendorCode>
+        <weight>15.000</weight>
+        <param name="Цвет">Коричневый</param>
+        <param name="Размер">420 мм</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
