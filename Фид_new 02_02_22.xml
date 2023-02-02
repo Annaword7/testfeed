@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2023-01-30 19:02">
+  <shop>
+    <name>Мой супер магазин</name>
+    <company>LTD Company</company>
+    <url>http://xxx.ru</url>
+    <currencies>
+      <currency id="RUB" rate="1" />
+      <currency id="EUR" rate="75.0469" />
+      <currency id="USD" rate="66.4779" />
+    </currencies>
+    <categories>
+        <category id="6323" picture="https://ae04.alicdn.com/kf/H85fb7c46f1294fe6a2fb07e7eef94fa4Y.jpg">Виниловый ламинат</category>
+        <category id="6324" picture="https://st6.stpulscen.ru/images/product/377/335/029_original.jpg">Клей строительный</category>
+    </categories> 
+    <offers>
+        <offer id="1_001" available="true" group_id="001">
+            <barcode>4627077842287</barcode>
+            <name>"Северный Ветер"</name>
+            <url>https://xxx.ru/xxx1_001/</url>
+            <sort>1</sort>
+            <price>4500</price>
+            <oldprice>5200</oldprice>
+            <priceUnits>м²</priceUnits>
+            <currencyId>RUB</currencyId>
+            <vendor>Best Floor Ever</vendor>
+            <vendorCode>0000-667838</vendorCode>
+            <categoryId>6323</categoryId>
+            <model>VL-001</model>
+            <typePrefix>Виниловый ламинат /typePrefix>
+            <param name="Ширина, мм">390</param>
+            <param name="Цвет" hex="#964b00">Коричневый</param>
+            <param name="Фаска">Есть</param>
+            <param name="Класс износостойкости">43</param>
+            <param name="Количество м² в упаковке" noFilter="18,6">Мягкая</param>
+            <description>Изосостойкое покрытие для пола</description>
+            <googleProductCategory>Hardware &amp; Building Materials > Flooring & Carpet</googleProductCategory>
+            <rec title="Похожие товары">213741,1899435,1630074</rec>
+            <rec title="Может понадобится">666000,777000</rec>
+            <badge textColor="#000" bgColor="#CCFF33">ХИТ ПРОДАЖ</badge>
+            <maxPromocodeDiscountPercent>0</maxPromocodeDiscountPercent>
+            <vat>vat_20</vat>
+            <picture>https://biglin.ru/upload/iblock/116/116e0997ecb8758c26522301378823f5.jpg</picture>
+            <picture>https://biglin.ru/upload/iblock/18c/18ceba8f4ff9ab844ab34a669a70aac5.jpg</picture>
+            <rating>4.5</rating>
+        </offer>
+        <offer id="1_002" available="true" group_id="002">
+            <barcode>4627077842287</barcode>
+            <name>"Тихая Гавань"</name>
+            <url>https://xxx.ru/xxx1_002/</url>
+            <sort>2</sort>
+            <price>4200</price>
+            <oldprice>5900</oldprice>
+            <priceUnits>м²</priceUnits>
+            <currencyId>RUB</currencyId>
+            <vendor>Best Floor Ever</vendor>
+            <vendorCode>0000-667838</vendorCode>
+            <categoryId>6323</categoryId>
+            <model>VL-002</model>
+            <typePrefix>Виниловый ламинат /typePrefix>
+            <param name="Ширина, мм">420</param>
+            <param name="Цвет" hex="#964b00">Коричневый</param>
+            <param name="Фаска">Есть</param>
+            <param name="Фаска">Нет</param>
+            <param name="Класс износостойкости">43</param>
+            <description>Изосостойкое покрытие для пола, также называется кварцвинил, плитка ПВХ или виниловый ламинат</description>
+            <googleProductCategory>Hardware &amp; Building Materials > Flooring & Carpet</googleProductCategory>
+            <rec title="Похожие товары">1_001,1_003,1_004</rec>
+            <rec title="Может понадобится">777</rec>
+            <maxPromocodeDiscountPercent>0</maxPromocodeDiscountPercent>
+            <vat>vat_20</vat>
+            <picture>https://biglin.ru/upload/iblock/eae/eaef321512652bb9692ba473999e40f0.jpg</picture>
+            <picture>https://biglin.ru/upload/iblock/68f/68f9c4c0eec4e5777a784f3e4e857629.jpg</picture>
+            <rating>4.9</rating>
+        </offer>
+        <offer id="1_003" available="true" group_id="003">
+            <barcode>4627077842287</barcode>
+            <name>"Натуральное дерево"</name>
+            <url>https://xxx.ru/xxx1_003/</url>
+            <sort>3</sort>
+            <price>4300</price>
+            <oldprice>5700</oldprice>
+            <priceUnits>м²</priceUnits>
+            <currencyId>RUB</currencyId>
+            <vendor>Best Floor Never</vendor>
+            <vendorCode>0000-667837</vendorCode>
+            <categoryId>6323</categoryId>
+            <model>VL-002</model>
+            <typePrefix>Виниловый ламинат /typePrefix>
+            <param name="Ширина, мм">420</param>
+            <param name="Цвет" hex="#964b00">Коричневый</param>
+            <param name="Фаска">Есть</param>
+            <param name="Фаска">Нет</param>
+            <param name="Класс износостойкости">43</param>
+            <description>Изосостойкое покрытие для пола, также называется кварцвинил, плитка ПВХ или виниловый ламинат</description>
+            <googleProductCategory>Hardware &amp; Building Materials > Flooring & Carpet</googleProductCategory>
+            <rec title="Похожие товары">1_005,1_002,1_004</rec>
+            <rec title="Может понадобится">777</rec>
+            <maxPromocodeDiscountPercent>0</maxPromocodeDiscountPercent>
+            <vat>vat_20</vat>
+            <picture>https://biglin.ru/upload/iblock/37f/37f5d77bf81457fd56b9876a14276208.jpg</picture>
+            <picture>https://biglin.ru/upload/iblock/116/116402e8235ef2f0c266db3da2ba1a1b.jpg</picture>
+            <rating>4.9</rating>
+        </offer>
+        <offer id="1_004" available="true" group_id="004">
+            <barcode>4627077842287</barcode>
+            <name>"Натуральное дерево"</name>
+            <url>https://xxx.ru/xxx1_004/</url>
+            <sort>4</sort>
+            <price>4300</price>
+            <oldprice>5700</oldprice>
+            <priceUnits>м²</priceUnits>
+            <currencyId>RUB</currencyId>
+            <vendor>Best Floor Never</vendor>
+            <vendorCode>0000-667837</vendorCode>
+            <categoryId>6323</categoryId>
+            <model>VL-002</model>
+            <typePrefix>Виниловый ламинат /typePrefix>
+            <param name="Ширина, мм">420</param>
+            <param name="Цвет" hex="#964b00">Коричневый</param>
+            <param name="Фаска">Есть</param>
+            <param name="Фаска">Нет</param>
+            <param name="Класс износостойкости">43</param>
+            <description>Изосостойкое покрытие для пола, также называется кварцвинил, плитка ПВХ или виниловый ламинат</description>
+            <googleProductCategory>Hardware &amp; Building Materials > Flooring & Carpet</googleProductCategory>
+            <rec title="Похожие товары">1_001,1_002,1_005</rec>
+            <rec title="Может понадобится">777</rec>
+            <maxPromocodeDiscountPercent>0</maxPromocodeDiscountPercent>
+            <vat>vat_20</vat>
+            <picture>https://biglin.ru/upload/iblock/8ce/8cec61229b9cf82c8a3157fcb73a8e40.jpg</picture>
+            <picture>https://biglin.ru/upload/iblock/3f5/3f56b2780472b255204def9bbe6f55a0.jpg</picture>
+            <rating>4.5</rating>
+        </offer>
+        <offer id="1_005" available="true" group_id="005">
+            <barcode>4627077842287</barcode>
+            <name>"Натуральное дерево"</name>
+            <url>https://xxx.ru/xxx1_005/</url>
+            <sort>4</sort>
+            <price>5200</price>
+            <oldprice>6900</oldprice>
+            <priceUnits>м²</priceUnits>
+            <currencyId>RUB</currencyId>
+            <vendor>Best Floor Never</vendor>
+            <vendorCode>0000-667837</vendorCode>
+            <categoryId>6323</categoryId>
+            <model>VL-002</model>
+            <typePrefix>Виниловый ламинат /typePrefix>
+            <param name="Ширина, мм">620</param>
+            <param name="Цвет" hex="#964b00">Коричневый</param>
+            <param name="Фаска">Есть</param>
+            <param name="Класс износостойкости">43</param>
+            <description>Изосостойкое покрытие для пола, также называется кварцвинил, плитка ПВХ или виниловый ламинат</description>
+            <googleProductCategory>Hardware &amp; Building Materials > Flooring & Carpet</googleProductCategory>
+            <rec title="Похожие товары">1_001,1_003,1_004</rec>
+            <rec title="Может понадобится">777</rec>
+            <maxPromocodeDiscountPercent>0</maxPromocodeDiscountPercent>
+            <vat>vat_20</vat>
+            <picture>https://biglin.ru/upload/iblock/736/736701cb7fd7f623363f473f76bd0a73.jpg</picture>
+            <picture>https://biglin.ru/upload/iblock/959/95980297c2767d01135a5d3e0f60add1.jpg</picture>
+            <rating>4.6</rating>
+        </offer>
+        <offer id="1_005" available="true" group_id="005">
+            <barcode>4627077842287</barcode>
+            <name>"Натуральное дерево"</name>
+            <url>https://xxx.ru/xxx1_005/</url>
+            <sort>4</sort>
+            <price>5200</price>
+            <oldprice>6900</oldprice>
+            <priceUnits>м²</priceUnits>
+            <currencyId>RUB</currencyId>
+            <vendor>Best Floor Never</vendor>
+            <vendorCode>0000-667837</vendorCode>
+            <categoryId>6323</categoryId>
+            <model>VL-002</model>
+            <typePrefix>Виниловый ламинат /typePrefix>
+            <param name="Ширина, мм">420</param>
+            <param name="Цвет" hex="#964b00">Коричневый</param>
+            <param name="Фаска">Есть</param>
+            <param name="Класс износостойкости">43</param>
+            <description>Изосостойкое покрытие для пола, также называется кварцвинил, плитка ПВХ или виниловый ламинат</description>
+            <googleProductCategory>Hardware &amp; Building Materials > Flooring & Carpet</googleProductCategory>
+            <rec title="Похожие товары">1_001,1_003,1_004</rec>
+            <rec title="Может понадобится">777</rec>
+            <maxPromocodeDiscountPercent>0</maxPromocodeDiscountPercent>
+            <vat>vat_20</vat>
+            <picture>https://biglin.ru/upload/iblock/736/736701cb7fd7f623363f473f76bd0a73.jpg</picture>
+            <picture>https://biglin.ru/upload/iblock/959/95980297c2767d01135a5d3e0f60add1.jpg</picture>
+            <rating>4.6</rating>
+        </offer>
+        <offer id="777" available="true" group_id="00777">
+            <barcode>4627077842287</barcode>
+            <name>"для винилового ламината"</name>
+            <url>https://xxx.ru/xxx./</url>
+            <sort>5</sort>
+            <price>520</price>
+            <oldprice>690</oldprice>
+            <priceUnits>л</priceUnits>
+            <currencyId>RUB</currencyId>
+            <vendor>Offerings</vendor>
+            <vendorCode>0000-667837</vendorCode>
+            <categoryId>6324</categoryId>
+            <model>VL-002</model>
+            <typePrefix>Клей /typePrefix>
+            <param name="Объем, л">1</param>
+            <param name="Объем, л">2</param>
+            <param name="Объем, л">3</param>
+            <param name="Объем, л">4</param>
+            <description>Клей для покрытий типа кварцвинил, плитка ПВХ или виниловый ламинат</description>
+            <googleProductCategory>Hardware &amp; Building Materials > Flooring & Carpet</googleProductCategory>
+            <maxPromocodeDiscountPercent>0</maxPromocodeDiscountPercent>
+            <vat>vat_20</vat>
+            <picture>https://biglin.ru/upload/iblock/736/736701cb7fd7f623363f473f76bd0a73.jpg</picture>
+            <picture>https://biglin.ru/upload/iblock/959/95980297c2767d01135a5d3e0f60add1.jpg</picture>
+            <rating>4.6</rating>
+        </offer>
+    </offers>
+  </shop>
+</yml_catalog>
