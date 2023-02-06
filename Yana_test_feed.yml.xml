@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2023-02-06 11:10">
+  <shop>
+    <name>test_store</name>
+    <company>test_store</company>
+    <url>http://test.pro/378227-wqnv</url>
+    <categories>
+      <category id="5701">Женская одежда</category>
+      <category id="5702">Мужская одежда</category>
+    </categories>
+    <offers>
+      <offer id="12473" available="true" group_id="1658">
+        <url>http://s3.advantme.pro/378227-wqnv/products/mini-plate-s-rukavom-letuchaya-mysh-iz-atlasa-s-zavyshennoi-taliei-terrakotovogo-tsveta</url>
+        <price>8990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5701</categoryId>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4502_big.jpeg</picture>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4503_big.jpeg</picture>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4504_big.jpeg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Мини-платье с рукавом &quot;летучая мышь&quot; из атласа с завышенной талией терракотового цвета</name>
+        <description>Потрясающее платье бронзового цвета с идеальной посадкой и рукавами летучая мышь. Пояс на талии позволяет создать акцент. Прекрасный V-образный вырез.</description>
+        <vendorCode>1234-1</vendorCode>
+        <param name="Размер">S</param>
+      </offer>
+      <offer id="12478" available="true" group_id="1658">
+        <url>http://s3.advantme.pro/378227-wqnv/products/mini-plate-s-rukavom-letuchaya-mysh-iz-atlasa-s-zavyshennoi-taliei-terrakotovogo-tsveta?size=35</url>
+        <price>8990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5701</categoryId>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4502_big.jpeg</picture>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4503_big.jpeg</picture>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4504_big.jpeg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Мини-платье с рукавом &quot;летучая мышь&quot; из атласа с завышенной талией терракотового цвета</name>
+        <description>Потрясающее платье бронзового цвета с идеальной посадкой и рукавами летучая мышь. Пояс на талии позволяет создать акцент. Прекрасный V-образный вырез.</description>
+        <vendorCode>1234-2</vendorCode>
+        <param name="Размер">M</param>
+      </offer>
+      <offer id="12474" available="true" group_id="1659">
+        <url>http://s3.advantme.pro/378227-wqnv/products/mini-plate-s-blestkami-po-vsemi-dline-i-mnogosloinymi-detalyami-sinego-tsveta</url>
+        <price>9990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5701</categoryId>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4505_big.jpeg</picture>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4506_big.jpeg</picture>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4507_big.jpeg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Мини-платье с блестками по всемй длине и многослойными деталями синего цвета</name>
+        <description>Платье для сногсшибательного выхода. Украшенное пайетками, с невероятным вырезом на спине и по линии талии.</description>
+        <vendorCode>1659</vendorCode>
+        <param name="Размер">S</param>
+      </offer>
+      <offer id="12475" available="true">
+        <url>http://s3.advantme.pro/378227-wqnv/products/plate-midi-s-rukavom-letuchaya-mysh-iz-atlasa-s-zavyshennoi-taliei-tsveta-shartrez</url>
+        <price>6990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5701</categoryId>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4508_big.jpeg</picture>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4509_big.jpeg</picture>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4510_big.jpeg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Платье миди с рукавом &quot;летучая мышь&quot; из атласа с завышенной талией цвета шартрез</name>
+        <description>Платье невероятного цвета с рукавом мидии завышенной линий талии.</description>
+        <vendorCode>1660</vendorCode>
+      </offer>
+      <offer id="12476" available="true">
+        <url>http://s3.advantme.pro/378227-wqnv/products/elastichnaya-oblegaiuschaya-rubashka-s-vorotnikom-stoikoi-temno-serogo-tsveta</url>
+        <price>5990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5702</categoryId>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4511_big.jpeg</picture>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4512_big.jpeg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Эластичная облегающая рубашка с воротником-стойкой темно-серого цвета</name>
+        <description>Идеальная рубашка с потрясающим кроем. Эластичная, с воротником стойкой</description>
+        <vendorCode>1661</vendorCode>
+      </offer>
+      <offer id="12477" available="true">
+        <url>http://s3.advantme.pro/378227-wqnv/products/legkii-dzhemper-v-rubchik-s-kruglym-vyrezom-svetlo-korichnevogo-tsveta</url>
+        <price>5990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5702</categoryId>
+        <picture>http://s3.advantme.pro/378227-wqnv/pictures/product/big/4513_big.jpeg</picture>
+        <store>false</store>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Легкий джемпер в рубчик с круглым вырезом светло-коричневого цвета</name>
+        <description>Просто отпадный джемпер для красавчиков</description>
+        <vendorCode>1662</vendorCode>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
