@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 <yml_catalog date="2023-02-06 11:10">
   <shop>
     <name>test_store</name>
